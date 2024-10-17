@@ -33,7 +33,7 @@ int main() {
         printf("▒█▄▄█ ░▀▀▀▄▄ ▒█░░░ ▒█░ ▒█░\n");
         printf("▒█░▒█ ▒█▄▄▄█ ▒█▄▄█ ▄█▄ ▄█▄\n");
         printf("\n");
-        printf("«Actor Ai Juicy Victor Ile» (YouTube https://youtube.com/@AiJuicy_?si=AnNBndnh_Db4GtBz )\n");
+        printf("« )\n");
 
         for (int k = 0; 1760 > k; k++) {
             putchar(k % 80 ? b[k] : 10);
